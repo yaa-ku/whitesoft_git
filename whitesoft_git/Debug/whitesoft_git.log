@@ -1,0 +1,39 @@
+﻿  whitesoft_git.cpp
+C:\Users\HONOR\source\repos\whitesoft_git\whitesoft_git\whitesoft_git.cpp(13,28): error C2027: использование неопределенного типа "std::array<float,10>"
+C:\Users\HONOR\source\repos\whitesoft_git\whitesoft_git\whitesoft_git.cpp(7): message : см. объявление "std::array<float,10>"
+C:\Users\HONOR\source\repos\whitesoft_git\whitesoft_git\whitesoft_git.cpp(14,14): error C2676: бинарный "[": "std::array<float,10>" не определяет этот оператор или преобразование к типу приемлемо к встроенному оператору
+C:\Users\HONOR\source\repos\whitesoft_git\whitesoft_git\whitesoft_git.cpp(15,24): error C2676: бинарный "[": "std::array<float,10>" не определяет этот оператор или преобразование к типу приемлемо к встроенному оператору
+C:\Users\HONOR\source\repos\whitesoft_git\whitesoft_git\whitesoft_git.cpp(16,24): error C2676: бинарный "[": "std::array<float,10>" не определяет этот оператор или преобразование к типу приемлемо к встроенному оператору
+C:\Users\HONOR\source\repos\whitesoft_git\whitesoft_git\whitesoft_git.cpp(19,21): error C2676: бинарный "[": "std::array<float,10>" не определяет этот оператор или преобразование к типу приемлемо к встроенному оператору
+C:\Users\HONOR\source\repos\whitesoft_git\whitesoft_git\whitesoft_git.cpp(20,22): error C2676: бинарный "[": "std::array<float,10>" не определяет этот оператор или преобразование к типу приемлемо к встроенному оператору
+C:\Users\HONOR\source\repos\whitesoft_git\whitesoft_git\whitesoft_git.cpp(23,18): error C2027: использование неопределенного типа "std::array<float,10>"
+C:\Users\HONOR\source\repos\whitesoft_git\whitesoft_git\whitesoft_git.cpp(7): message : см. объявление "std::array<float,10>"
+C:\Users\HONOR\source\repos\whitesoft_git\whitesoft_git\whitesoft_git.cpp(28,28): error C2027: использование неопределенного типа "std::array<float,10>"
+C:\Users\HONOR\source\repos\whitesoft_git\whitesoft_git\whitesoft_git.cpp(7): message : см. объявление "std::array<float,10>"
+C:\Users\HONOR\source\repos\whitesoft_git\whitesoft_git\whitesoft_git.cpp(29,22): error C2676: бинарный "[": "std::array<float,10>" не определяет этот оператор или преобразование к типу приемлемо к встроенному оператору
+C:\Users\HONOR\source\repos\whitesoft_git\whitesoft_git\whitesoft_git.cpp(33,6): error C2182: MyVect: недопустимое использование типа "void"
+C:\Users\HONOR\source\repos\whitesoft_git\whitesoft_git\whitesoft_git.cpp(33,13): error C2065: vector: необъявленный идентификатор
+C:\Users\HONOR\source\repos\whitesoft_git\whitesoft_git\whitesoft_git.cpp(33,21): error C2062: тип "float" не требуется
+C:\Users\HONOR\source\repos\whitesoft_git\whitesoft_git\whitesoft_git.cpp(33,32): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\HONOR\source\repos\whitesoft_git\whitesoft_git\whitesoft_git.cpp(33,32): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\HONOR\source\repos\whitesoft_git\whitesoft_git\whitesoft_git.cpp(71,21): warning C4244: аргумент: преобразование "int" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\HONOR\source\repos\whitesoft_git\whitesoft_git\whitesoft_git.cpp(102,25): warning C4244: аргумент: преобразование "int" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\HONOR\source\repos\whitesoft_git\whitesoft_git\whitesoft_git.cpp(104,22): warning C4244: =: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\HONOR\source\repos\whitesoft_git\whitesoft_git\whitesoft_git.cpp(124,23): error C2079: "arr" использует не имеющую определения структуру class "std::array<float,10>"
+C:\Users\HONOR\source\repos\whitesoft_git\whitesoft_git\whitesoft_git.cpp(125,5): error C2065: vector: необъявленный идентификатор
+C:\Users\HONOR\source\repos\whitesoft_git\whitesoft_git\whitesoft_git.cpp(125,12): error C2062: тип "float" не требуется
+C:\Users\HONOR\source\repos\whitesoft_git\whitesoft_git\whitesoft_git.cpp(129,16): error C2664: "void MyArray(std::array<float,10> &)": невозможно преобразовать аргумент 1 из "int" в "std::array<float,10> &"
+C:\Users\HONOR\source\repos\whitesoft_git\whitesoft_git\whitesoft_git.cpp(7,6): message : см. объявление "MyArray"
+C:\Users\HONOR\source\repos\whitesoft_git\whitesoft_git\whitesoft_git.cpp(131,12): error C2065: vec: необъявленный идентификатор
